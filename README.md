@@ -2,7 +2,7 @@
 <h3 align="center">Savvy Data Analyst</h3>
 <img align="right" width=400 src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 
-- 🔭 I’m currently working on **Statistical Data Analysis using Python**
+- 🔭 I’m currently working on  Statistical Data Analysis using Python
 
 - 🌱 I’m currently learning **Advanced Python, SQL and Data Science**
 
@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Shireesha-perspective-data
 
-- 📝 I regularly write code on [Data Preprocessing and Structuring Data](Data Preprocessing and Structuring Data)
+- 📝 I regularly write code on  Data Preprocessing and Structuring Data
 
 - 💬 Ask me about **Python Data Science and Statistical data analysis**
 
 - 📫 How to reach me **shireesha.aellikanti@outlook.com**
 
-- 📄 Know about my experiences [linkedin.com/in/shireesha-aellikanti-218045231](linkedin.com/in/shireesha-aellikanti-218045231)
+- 📄 Know about my experiences https://www.linkedin.com/in/shireesha-aellikanti-218045231/
 
 - ⚡ Fun fact **smart work**
 
