@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Advanced Machine Learning**
 
-- 👨‍💻 All of my projects are available at https://github.com/Shireesha-perspective-data
+- 👨‍💻 All of my projects are available at 
 
 - 📝 I regularly write code on  Data Preprocessing and Structuring Data
 
